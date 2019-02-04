@@ -15,3 +15,6 @@ This module contain evaluate function. the default metric is accuracy.
 ####
 this version only have one hidden layer and aims for classification problem!!
 ####
+
+###
+This is the new version enable number of node in the hidden layer
